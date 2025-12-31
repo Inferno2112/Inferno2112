@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Inferno2112
+- 👋 Hi, I’m @Himanshu
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning WEB Development
 - 💞️ I’m looking to collaborate on Projects
